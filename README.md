@@ -2,37 +2,31 @@
 
 Im 18 years old programmer. I currently Looking for job as Web Developer. Currently seeking knowledge in React, ASB.NET, Angular and Nextjs . Love to learn new technologies and share my knowledge with others 
 
-### Catch me there
-<!-- <a href="https://www.linkedin.com/in/damian-sarnecki/"> --> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&color=ff1493&logoColor=white"/>  <!-- </a> -->
 
-### Languages
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&color=ff1493&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&color=ff1493&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&color=ff1493&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&color=ff1493&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&color=ff1493&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&color=ff1493&logoColor=white)
-![PYTHON](https://img.shields.io/badge/python-%3670A0.svg?style=flat-square&logo=python&color=ff1493&logoColor=white)
-
-### Technologies
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&color=ff1493&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&color=ff1493&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&color=ff1493&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&color=ff1493&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&color=ff1493&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&color=ff1493&logoColor=white)
-![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat-square&logo=mocha&color=ff1493&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&color=ff1493&logoColor=white)
-
-### Stats
+### Languages And Technologies
 <div>
-<a href="https://github.com/salehWeb/github-readme-stats">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=salehWeb&count_private=true&layout=compact&theme=omni&hide=stars" />
-</a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<!-- ### Projects 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salehWeb&repo=ethereum-ads&theme=omni)](https://github.com/salehWeb/ethereum-ads?) -->
 
+### Stats
 
-<!-- [![saleh GitHub stats](https://github-readme-stats.vercel.app/api?username=salehWeb&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=salehWeb&theme=dark&background=000000)](https://git.io/streak-stats)
+
+### Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salehWeb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
