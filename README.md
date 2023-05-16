@@ -5,7 +5,7 @@ I am a 19-year-old programmer based in Libya, who is passionate about web develo
 ### catch me in linkedin [here](https://www.linkedin.com/in/salih-hasan-370547236/) 
 <h3>send me an email<a href="mailto:salihdhaifullah@gmail.com?subject=Contact me"> here </a></h3>
 
-### programming languages And technologies
+### programming languages and technologies
 
   <div>   
   <img src="https://github.com/salehWeb/salehWeb/blob/main/CSS3.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
