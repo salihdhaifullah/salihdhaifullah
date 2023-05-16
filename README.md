@@ -3,8 +3,7 @@
 I am a 19-year-old programmer based in Libya, who is passionate about web development. I am looking for a job where I can apply my skills and learn new technologies. I have experience with React, ASP.NET Core, and Next.js, and I enjoy sharing my knowledge with others. Programming is not just a hobby for me, it is a way of expressing my creativity and solving problems.
 
 ### catch me in linkedin [here](https://www.linkedin.com/in/salih-hasan-370547236/) 
-
-### send me an email [here](mailto:johndoe@example.com?subject=Contact me) 
+<a href="mailto:salihdhaifullah@gmail.com?subject=Contact me">send me an email</a>
 
 ### programming languages And technologies
 
